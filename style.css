@@ -1,0 +1,33 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.note
+{
+    font-size: 14px;
+    color: black;
+}
+
+.copyright_footer
+{
+    position: fixed;
+    background-color: aquamarine;
+    color: salmon;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-color: aqua;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px gray;
+    background-color: salmon;
+}
